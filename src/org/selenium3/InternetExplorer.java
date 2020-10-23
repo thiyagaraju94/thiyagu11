@@ -10,6 +10,8 @@ public class InternetExplorer {
 		WebDriver driver = new InternetExplorerDriver();
 		
 		driver.get("https://www.facebook.com/");
+		System.out.println("u");
+		//
 	}
 
 }
