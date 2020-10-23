@@ -11,6 +11,8 @@ public class InternetExplorer {
 		
 		driver.get("https://www.facebook.com/");
 		System.out.println("u");
+		
+		System.out.println("waste fellow");
 		//
 	}
 
